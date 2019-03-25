@@ -4,6 +4,8 @@ I made this project for fun. After learning OpenCV Python I thoguth making a fun
 
 Currently I am working on applying Reinforment Learning so that it can learn by itself how to cross the obstacles by itself without intervention of external agents.
 
+It uses OpenCV color filters to detect your hand and checks the devidation from its previous position.
+
 In a few days I will be releasing the Environment for the Game. So everyone out there can use this environment to train their Agents.
 
 Have Fun!!
